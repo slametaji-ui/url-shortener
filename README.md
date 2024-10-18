@@ -27,6 +27,8 @@ URL Shortener adalah aplikasi web sederhana yang memungkinkan pengguna untuk mem
 
 
 ![URL Shortener Screenshot](https://i.imgur.com/vV9vlOx.png "welcome")
+![URL Shortener Screenshot](https://i.imgur.com/Ko9eKng.png "short with custom parameter")
+![URL Shortener Screenshot](https://i.imgur.com/ov4pYcC.png "short with random char parameter")
 
 ## Cara Install
 
@@ -34,7 +36,7 @@ URL Shortener adalah aplikasi web sederhana yang memungkinkan pengguna untuk mem
 
 Pastikan Anda sudah menginstal hal berikut di mesin Anda:
 
-- **Node.js** versi 14 atau lebih baru
+- **Node.js** versi 20 atau lebih baru
 - **MySQL** sebagai database
 
 ### Langkah-langkah
